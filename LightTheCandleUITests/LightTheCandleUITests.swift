@@ -2,7 +2,7 @@
 //  LightTheCandleUITests.swift
 //  LightTheCandleUITests
 //
-//  Created by Declan on 4/17/24.
+//  Created by Abraham JongYoung Park on 4/17/24.
 //
 
 import XCTest

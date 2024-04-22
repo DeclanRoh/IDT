@@ -5,7 +5,7 @@
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
-		<false/>
+		<true/>
 		<key>UISceneConfigurations</key>
 		<dict>
 			<key>UIWindowSceneSessionRoleApplication</key>
@@ -21,5 +21,9 @@
 			</array>
 		</dict>
 	</dict>
+	<key>UIMainStoryboardFile~ipad</key>
+	<string>Main-iPad</string>
+	<key>UIMainStoryboardFile~iphone</key>
+	<string>Main</string>
 </dict>
 </plist>
